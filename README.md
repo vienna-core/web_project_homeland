@@ -21,11 +21,7 @@ programado con HTML5 y CSS3, usando Flexbox para el diseño y media queries para
 
 ---
 
-### &#x20; ‧ p l a n e s ‧
-
-                de
-
-### &#x20; ‧ m e j o r a ‧
+### &#x20; ‧ p l a n e s - d e - m e j o r a ‧
 
 - implementar animaciones para evitar un ajuste brusco en la experiencia final del usuario
 - evaluar la legibilidad y comodidad del diseño, y realizar ajustes con base en las áreas de oportunidad identificadas, apegándose a la estética y atmósfera que se hubieran establecido como objetivo final en el diseño.
