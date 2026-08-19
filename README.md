@@ -19,7 +19,11 @@
 
 programado con HTML5 y CSS3, usando Flexbox para el diseño y media queries para la responsividad del diseño en diferentes tamaños de display.
 
-### &#x20; ‧ p l a n e s d e ‧
+---
+
+### &#x20; ‧ p l a n e s ‧
+
+                de
 
 ### &#x20; ‧ m e j o r a ‧
 
