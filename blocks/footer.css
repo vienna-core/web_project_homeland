@@ -1,0 +1,12 @@
+.footer {
+  background-color: #2a2c2f;
+  display: flex;
+}
+
+.footer_copyright {
+  margin: auto;
+  padding: 92px 0 24px;
+  color: #ffffff;
+  font-family: "Inter";
+  font-weight: 400;
+}
