@@ -5,14 +5,14 @@
   flex-direction: column;
 }
 
-.logo_icon {
+.logo__icon {
   margin: auto;
   padding-bottom: 22.2px;
   width: 32px;
   height: 32px;
 }
 
-.logo_text {
+.logo__text {
   width: 254.54px;
   height: 14.94px;
 }

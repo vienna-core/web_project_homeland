@@ -1,69 +1,69 @@
 @media screen and (max-width: 544px) {
-  .logo_icon {
+  .logo__icon {
     width: 23.69px;
     height: 23.77px;
     padding-bottom: 16.53px;
   }
 
-  .logo_text {
+  .logo__text {
     width: 188.62px;
     height: 11.1px;
   }
 
-  .lead_title {
+  .lead__title {
     font-size: 40px;
     line-height: 44px;
   }
 
-  .lead_subtitle {
+  .lead__subtitle {
     margin-bottom: 30px;
     font-size: 16px;
     line-height: 20px;
   }
 
-  .intro_title {
+  .intro__title {
     font-size: 32px;
     line-height: 35px;
     padding: 64px 0 40px;
   }
 
-  .intro_quote {
+  .intro__quote {
     line-height: 30px;
   }
 
-  .footer_copyright {
+  .footer__copyright {
     padding: 64px 0 24px;
   }
 }
 
 @media screen and (max-width: 1024px) and (min-width: 545px) {
-  .logo_icon {
+  .logo__icon {
     width: 30.17px;
     height: 32px;
     padding-bottom: 20.98px;
   }
 
-  .logo_text {
+  .logo__text {
     width: 254.84px;
     height: 14.09px;
   }
 
-  .lead_title {
+  .lead__title {
     font-size: 75px;
     line-height: 79px;
   }
 
-  .lead_subtitle {
+  .lead__subtitle {
     margin-bottom: 30px;
   }
 
-  .intro_title {
+  .intro__title {
     font-size: 45px;
     line-height: 49px;
     padding: 90px 0 50px;
   }
 
-  .footer_copyright {
+  .footer__copyright {
     padding: 88px 0 24px;
   }
 }
