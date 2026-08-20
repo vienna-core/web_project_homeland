@@ -26,3 +26,6 @@ programado con HTML5 y CSS3, usando Flexbox para el diseño y media queries para
 - implementar animaciones para evitar un ajuste brusco en la experiencia final del usuario
 - evaluar la legibilidad y comodidad del diseño, y realizar ajustes con base en las áreas de oportunidad identificadas, apegándose a la estética y atmósfera que se hubieran establecido como objetivo final en el diseño.
 - agregar un navegador con enlaces en cuanto se amplíe el diseño.
+
+### &#x20; ‧ l i n k - t o - p a g e s ‧
+https://vienna-core.github.io/web_project_homeland/
